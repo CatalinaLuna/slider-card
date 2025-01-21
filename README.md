@@ -1,1 +1,1 @@
-# slider-css
+# slider-card
